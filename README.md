@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Ethical+Hacker;Security+Veteran;Hardware+Hacker;Kali+Linux+Expert;Python+%26+C%2B%2B+Developer" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Ethical+Hacker;5%2B+Years+of+Experience;Security+Veteran;Hardware+Hacker;Kali+Linux+Expert" alt="Dynamic Typing Animation" />
   
   <br><br>
   
@@ -22,9 +22,9 @@
 
 ## 👨‍💻 About Me
 
-I am a deeply passionate and self-taught cybersecurity professional from Maharashtra, India. **My journey in ethical hacking began in the 7th standard**, evolving from a core curiosity into a dedicated pursuit of mastering offensive and defensive security.
+I am a deeply passionate, self-taught cybersecurity professional from Maharashtra, India, with **over 5 years of hands-on experience**. My journey in ethical hacking began in the 7th standard, evolving from a core curiosity into a dedicated pursuit of mastering offensive and defensive security.
 
-While currently completing my **12th Grade (HSC)**, my primary focus remains on advanced, hands-on security research. I thrive on dissecting complex systems, from enterprise networks to low-level hardware.
+While currently completing my **12th Grade (HSC)**, my primary focus remains on advanced, real-world security research. I thrive on dissecting complex systems, from enterprise networks to low-level hardware.
 
 ### My Core Competencies:
 * **Penetration Testing:** Comprehensive testing of web applications, networks, and systems using the full Kali Linux suite.
@@ -45,7 +45,7 @@ While currently completing my **12th Grade (HSC)**, my primary focus remains on 
       <img src="https://img.shields.io/badge/Nmap-444444?style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap" />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
       <img src="https://img.shields.io/badge/Aircrack_ng-00AEEF?style=for-the-badge&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng" />
-      <img src="https://img.shields.io/badge/Hashcat-8B0000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
+      <img src="httpsD://img.shields.io/badge/Hashcat-8B0000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
       <img src="https://img.shields.io/badge/John_the_Ripper-DD0000?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="John the Ripper" />
       <img src="https://img.shields.io/badge/SQLMap-E44C3C?style=for-the-badge&logo=sqlmap&logoColor=white" alt="SQLMap" />
       <img src="https://img.shields.io/badge/Ghidra-3D3D3D?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
@@ -59,7 +59,7 @@ While currently completing my **12th Grade (HSC)**, my primary focus remains on 
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
       <img src="https://img.shields.io/badge/SDR-FF6600?style=for-the-badge&logo=radio-fm&logoColor=white" alt="SDR" />
       <img src="https://img.shields.io/badge/nRF24L01-1572B6?style=for-the-badge&logo=rfid&logoColor=white" alt="nRF24L01" />
-      <img src="https://img.shields.io/badge/CC1101-E34F26?style=for-the-badge&logo=radio-france&logoColor=white" alt="CC1101" />
+      <img src="https.img.shields.io/badge/CC1101-E34F26?style=for-the-badge&logo=radio-france&logoColor=white" alt="CC1101" />
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ While currently completing my **12th Grade (HSC)**, my primary focus remains on 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athxsec&show_icons=true&theme=tokyonight&icon_color=00FF00&hide_border=true&count_private=true&cache_seconds=1800" alt="athxsec's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxsec&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="athxsec's Top Languages" />
+  <img src="httpsimg.shields.io/api/top-langs/?username=athxsec&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="athxsec's Top Languages" />
   <br>
   <img src="https://streak-stats.herokuapp.com?user=athxsec&theme=tokyonight&hide_border=true" alt="athxsec's GitHub Streak" />
   <br>
