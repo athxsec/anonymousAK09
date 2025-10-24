@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Ethical+Hacker;Kali+Linux+Expert;Hardware+Hacker;Cybersecurity+Researcher;Python+%26+C%2B%2B+Developer" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Ethical+Hacker;Security+Veteran;Hardware+Hacker;Kali+Linux+Expert;Python+%26+C%2B%2B+Developer" alt="Dynamic Typing Animation" />
   
   <br><br>
   
@@ -22,27 +22,33 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate and driven cybersecurity student and ethical hacker from Maharashtra, India. My focus is on offensive security, from digital forensics and network penetration to hands-on hardware exploitation.
+I am a deeply passionate and self-taught cybersecurity professional from Maharashtra, India. **My journey in ethical hacking began in the 7th standard**, evolving from a core curiosity into a dedicated pursuit of mastering offensive and defensive security.
 
-- 🎓 Balancing my **12th Grade (HSC)** studies with advanced, self-directed security research.
-- 🛡️ Expert in the **Kali Linux** ecosystem for comprehensive penetration testing.
-- 📡 Designing and building custom hardware tools using **ESP32 (M5Stack)**, **nRF24L01**, and **CC1101** for RF and IoT analysis.
-- 🐍 Developing security scripts and automation tools in **Python** and **C++**.
-- 🖥️ Managing a personal **homelab** to simulate enterprise networks and test attack vectors.
+While currently completing my **12th Grade (HSC)**, my primary focus remains on advanced, hands-on security research. I thrive on dissecting complex systems, from enterprise networks to low-level hardware.
+
+### My Core Competencies:
+* **Penetration Testing:** Comprehensive testing of web applications, networks, and systems using the full Kali Linux suite.
+* **Hardware Hacking:** Designing and building custom tools with **ESP32 (M5Stack)**, **nRF24L01**, and **CC1101** for RF, IoT, and firmware analysis.
+* **Security Development:** Scripting and tool development in **Python** and **C++** to automate exploits and analysis.
+* **Homelab Management:** Building and managing virtualized lab environments to safely simulate real-world attack scenarios.
 
 ---
 
-## 🛠️ My Tech Stack & Toolkit
+## 🛠️ My Technical Arsenal
 
 <table>
   <tr>
-    <td valign="top" width="160px"><strong>🛡️ Cybersecurity</strong></td>
+    <td valign="top" width="180px"><strong>🛡️ Cybersecurity Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/Metasploit-C00000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=BurpSuite&logoColor=black" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Nmap-444444?style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap" />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Aircrack_ng-00AEEF?style=for-the-badge&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng" />
+      <img src="https://img.shields.io/badge/Hashcat-8B0000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
+      <img src="https://img.shields.io/badge/John_the_Ripper-DD0000?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="John the Ripper" />
+      <img src="https://img.shields.io/badge/SQLMap-E44C3C?style=for-the-badge&logo=sqlmap&logoColor=white" alt="SQLMap" />
+      <img src="https://img.shields.io/badge/Ghidra-3D3D3D?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
       <img src="https://img.shields.io/badge/OWASP_ZAP-F7F8F9?style=for-the-badge&logo=OWASP&logoColor=black" alt="OWASP ZAP" />
     </td>
   </tr>
@@ -63,14 +69,25 @@ I am a passionate and driven cybersecurity student and ethical hacker from Mahar
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src.="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
+    <td valign="top"><strong>📀 Operating Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/Parrot_OS-00A9D4?style=for-the-badge&logo=parrot-security&logoColor=white" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    </td>
+  </tr>
+    <tr>
     <td valign="top"><strong>🧰 Platforms & Tools</strong></td>
     <td>
-      <img src="httpsimg.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/VMware-6C227D?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+      <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     </td>
@@ -79,7 +96,7 @@ I am a passionate and driven cybersecurity student and ethical hacker from Mahar
 
 ---
 
-## 📊 My GitHub Stats & Activity
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athxsec&show_icons=true&theme=tokyonight&icon_color=00FF00&hide_border=true&count_private=true&cache_seconds=1800" alt="athxsec's GitHub Stats" />
@@ -89,9 +106,6 @@ I am a passionate and driven cybersecurity student and ethical hacker from Mahar
   <img src="https://streak-stats.herokuapp.com?user=athxsec&theme=tokyonight&hide_border=true" alt="athxsec's GitHub Streak" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=athxsec&theme=tokyonight&margin-w=15&margin-h=15" alt="athxsec's GitHub Trophies" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athxsec&theme=tokyonight&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true" alt="athxsec's GitHub Activity Graph" />
-SAP_R&D(Rnd)
 </p>
 
 ---
