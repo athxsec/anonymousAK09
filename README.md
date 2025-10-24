@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.imgur.com/u1t8zT2.gif" alt="athxsec Kali Linux Dragon" width="300" />
+  <img src="https://i.gifer.com/origin/33/33215f16f312a0233b25916f4d2f136e.gif" alt="athxsec Kali Linux Dragon" width="300" />
 
   <h1>
     Hello, I'm athxsec
@@ -63,13 +63,13 @@ I am a passionate and driven cybersecurity student and ethical hacker from Mahar
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src.="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>🧰 Platforms & Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="httpsimg.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -91,6 +91,7 @@ I am a passionate and driven cybersecurity student and ethical hacker from Mahar
   <img src="https://github-profile-trophy.vercel.app/?username=athxsec&theme=tokyonight&margin-w=15&margin-h=15" alt="athxsec's GitHub Trophies" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=athxsec&theme=tokyonight&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true" alt="athxsec's GitHub Activity Graph" />
+SAP_R&D(Rnd)
 </p>
 
 ---
